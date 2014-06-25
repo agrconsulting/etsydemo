@@ -10,6 +10,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.1.1'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
+gem "paperclip-dropbox", ">= 1.2.1"
+gem "figaro"
 
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
