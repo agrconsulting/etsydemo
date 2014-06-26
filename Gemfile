@@ -12,6 +12,7 @@ gem 'bootstrap-sass', '~> 3.1.1'
 gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem "paperclip-dropbox", ">= 1.2.1"
 gem "figaro"
+gem 'devise'
 
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
