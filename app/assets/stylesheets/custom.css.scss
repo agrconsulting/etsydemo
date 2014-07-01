@@ -52,9 +52,8 @@ body {
 .jumbotron {
 	background-image: url('https://dl.dropboxusercontent.com/s/imif01nrdjng2sw/jumbotron.jpg');
 	border: 2px solid #fff;
+	h1, h2 {
+	color: #fff;
+	font-family: guardian-egyptt, georgia, serif; }
 }
 
-.jumbotron h1, h2 {
-	color: #fff;
-	font-family: guardian-egyptt, georgia, serif;
-}
